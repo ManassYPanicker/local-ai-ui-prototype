@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Computer Monitor Outer Frame (Safe Zone 30..78) -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#6366F1"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:pathData="M 33,32 L 75,32 A 4,4 0 0,1 79,36 L 79,62 A 4,4 0 0,1 75,66 L 33,66 A 4,4 0 0,1 29,62 L 29,36 A 4,4 0 0,1 33,32 Z" />
+
+    <!-- Monitor Stand -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,66 L 54,74 M 44,74 L 64,74" />
+
+    <!-- Internal Local AI Spark / Hex Node in Center Screen -->
+    <!-- Neural Node Sparks -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M 54,39 L 63,45 L 63,55 L 54,60 L 45,55 L 45,45 Z" />
+
+    <!-- Center Bright Intelligence Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,43 L 59,47 L 59,53 L 54,56 L 49,53 L 49,47 Z" />
+
+    <!-- Local Orbiting Nodes (Teal and Indigo) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 37,42 A 2,2 0 1,1 37,42.01 Z" />
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M 71,42 A 2,2 0 1,1 71,42.01 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M 54,35 A 1.8,1.8 0 1,1 54,35.01 Z" />
+</vector>

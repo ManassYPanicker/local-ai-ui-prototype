@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Remote",
+  "description": "Premium native Android UI prototype for LM Studio personal computer connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
